@@ -21,6 +21,7 @@ h1 {
   text-align: center;
   transition: 0.2s;
   margin: 10px;
+  padding: 5px;
 }
 
 .card:hover {
